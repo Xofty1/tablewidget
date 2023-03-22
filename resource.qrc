@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/error"/>
+    <qresource prefix="/maxi"/>
+    <qresource prefix="/pix"/>
+    <qresource prefix="/">
+        <file>img/avg.png</file>
+        <file>img/bin.jpg</file>
+        <file>img/bubble.jpg</file>
+        <file>img/deletedb.jpg</file>
+        <file>img/error.png</file>
+        <file>img/fast.jpg</file>
+        <file>img/gnom.png</file>
+        <file>img/maximum.jpg</file>
+        <file>img/minimum.jpg</file>
+        <file>img/monkey1.jpg</file>
+        <file>img/notsorted.png</file>
+        <file>img/perebor.jpg</file>
+        <file>img/proiz.jpg</file>
+        <file>img/question.png</file>
+        <file>img/random.png</file>
+        <file>img/sum.png</file>
+        <file>img/расческа.jpg</file>
+    </qresource>
+</RCC>
